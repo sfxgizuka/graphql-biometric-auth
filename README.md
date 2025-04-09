@@ -30,7 +30,8 @@ Ensure the following tools are installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sfxgizuka/graphql-biometric-auth.git
+
 cd nest-auth-task
 ```
 
