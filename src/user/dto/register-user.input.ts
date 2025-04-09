@@ -10,4 +10,7 @@ export class RegisterUserInput {
   @Field()
   @MinLength(6)
   password: string;
+
+  @Field({ nullable: true })
+  biometricKey?: string;
 }
